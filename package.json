@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zhangzju/mysummary/issues"
   },
-  "homepage": "https://github.com/zhangzju/mysummary#readme"
+  "homepage": "https://github.com/zhangzju/mysummary#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
