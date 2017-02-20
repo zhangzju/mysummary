@@ -31,20 +31,19 @@
 
 *July 2015 - December 2015*(half a year)
 
-担任漏洞扫描组的漏洞测试人员, 搭建各种服务器及应用的环境用于测试不同的CVE漏洞是否已经被解决，同时
-负责更新漏洞库. 在测试漏洞的过程中对各种WEB程序，linux环境下的各种程序的运行原理都有了一定的了解，
-能够自主解决nginx配置，websocket报文抓取，postman的Http报文分析以及常见的windows漏洞的解决。
-同时对常见服务器的搭建，配置以及各种常见网络攻击方式的防范的理解.
+担任漏洞扫描组的漏洞测试人员, 搭建服务器及应用的环境用于confirm来自CVE漏洞，主要工作包括：
+* 搜集CVE漏洞信息，了解其实现原理
+* 编写NASL脚本，使用Nessus进行漏洞测试
+* 基于Linux和Windows Server搭建smtp，nfs等服务的环境
+* 编写漏洞扫描脚本，测试IE activex的漏洞修复情况
 
 ### **软件开发工程师** at [普联科技](http://www.tp-link.com.cn/)
 
 *July 2015 - Present* 
 
-Championed a more collaborative process for responsive web design between the
-UX and development disciplines. Curated an internal static web framework and
-responsive pattern library to be used on multiple projects. Lead development
-on responsive prototypes for NBC Universal, DIRECTV, AIG, Lionsgate, and the
-USA Network.
+担任软件开发工程师，负责基础设施建设，前端界面bug fix，网站全站开发以及嵌入式软件开发等工作。熟悉敏捷开发流程，
+对gitlab，docker registry，redmine即持续集成服务器的维护和使用，熟悉HTML，CSS即原生Javascript的各类API和常见
+故障排除，熟悉
 
 
 ## 技能
