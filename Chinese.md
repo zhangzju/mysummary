@@ -8,8 +8,9 @@
 - 邮件: <zhangwayzju@gmail.com>
 - 个人博客: [zhangzju.github.io](http://zhangzju.github.io)
 - Github: [zhangzju](http://github.com/zhangzju)
-- Twitter: [\@zhangzju](http://twitter.com/zhangzju)
+- Twitter: [@zhangzju](http://twitter.com/zhangzju)
 
+[英文简历](http://zhangzju.github.io/mysummary/English.md)
 
 
 ## 简历概述
@@ -41,22 +42,21 @@
 
 *July 2015 - Present* 
 
-担任软件开发工程师，负责基础设施建设，前端界面bug fix，网站全站开发以及嵌入式软件开发等工作。熟悉敏捷开发流程，
-对gitlab，docker registry，redmine即持续集成服务器的维护和使用，熟悉HTML，CSS即原生Javascript的各类API和常见
-故障排除，熟悉
+担任软件开发工程师，负责基础设施建设，前端界面bug fix，网站全站开发以及嵌入式软件开发等工作,主要包括：
+* 解决路由器产品界面定制过程中出现的web前端问题
+* 搭建和维护Redmine，Docker Registry，Jenkins和Gitlab服务器，以及负责管理和使用普及
+* 开发Mercusys网站的部分内容，开发内部项目进程跟踪服务以及模拟ACS服务器
+* 进行路由设备网络功能，智能手机支持功能的相关工作
 
 
 ## 技能
 
-These are languages, tools, and practices to which I have had exposure over the
-past 4 years or so. Those things which enjoy routine usage in my daily work are
-denoted with a ^†^ symbol.
+以下是我大学及工作以来在专业方面积累的知识和技能。带有 ^†^ 标记的是我使用较多的。
 
 ### 编程语言
 
 - [JavaScript](http://developer.mozilla.org/en/JavaScript)^†^
 - [PHP](http://php.net)
-- [Ruby](http://ruby-lang.org)^†^
 - [Python](http://python.org)
 - [C](http://gcc.org)
 - [Go](http://golang.org)
@@ -74,32 +74,28 @@ denoted with a ^†^ symbol.
 - [Flask](http://flask.org)
 - [Express](http://expressjs.com)^†^
 - [Hapi.js](http://hapijs.com)
-- [Sail.js](http://salsjs.org)
 - [jQuery](http://jquery.com)^†^
-- [Lodash](http://lodash.com)^†^
+- [Lodash](http://lodash.com)
 - [React](http://facebook.github.io/react)
 - [Ruby on Rails](http://rubyonrails.org)
 - [Wordpress](http://wordpress.org)
+- [vue.js](http://vuejs.org)
 
 
 ### 软件工具
 
 - [Apache](http://apache.org)^†^
-- [Apple XCode](http://developer.apple.com)
 - [Git](http://git-scm.com)^†^
 - [Gulp](http://gulpjs.com)^†^
-- [Mac OS X](http://apple.com/macosx)^†^
 - [MongoDB](http://mongodb.org)^†^
 - [MySQL](http://mysql.com)
 - [Nginx](http://wiki.nginx.org)
 - [Pandoc](http://johnmacfarlane.net/pandoc)
 - [PostgreSQL](http://postgresql.org)
-- [rvm](http://rvm.beginrescueend.com)^†^
 - [Sublime Text](http://www.sublimetext.com)
-- [Subversion](http://svn.apache.org)
 - [Ubuntu Linux](http://ubuntu.com)
 - [Vim](http://www.vim.org)^†^
-- [zsh](http://www.zsh.org)^†^
+- [Redis](http://redis.org)
 
 
 
@@ -111,9 +107,9 @@ denoted with a ^†^ symbol.
 
 ## 兴趣爱好
 
-- Reading, especially chinese detective nodel.
-- Heart Stone, SanGuoSha.
-- Chinese cross-talk show(being an actor or audience).
-- Watching and contributing to Open Source Software
+- 篮球，足球，橄榄球.
+- 桌游.
+- 相声，戏曲.
+- 开源软件，社区新技术。
 
 ©2017 [zhangzju](http://zhangzju.com/resume). All rights reserved. Direct contact only desired (no recruiters please).
