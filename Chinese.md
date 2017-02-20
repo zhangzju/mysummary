@@ -10,7 +10,9 @@
 - Github: [zhangzju](http://github.com/zhangzju)
 - Twitter: [@zhangzju](http://twitter.com/zhangzju)
 
-[英文简历](http://zhangzju.github.io/mysummary/English.md)
+[英文简历](http://zhangzju.github.io/mysummary/English)
+
+[回到简历首页](http://zhangzju.github.io/mysummary/)
 
 
 ## 简历概述

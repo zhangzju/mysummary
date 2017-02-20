@@ -10,6 +10,8 @@
 - Github: [zhangzju](http://github.com/zhangzju)
 - Twitter: [@zhangzju](http://twitter.com/zhangzju)
 
+[回到首页](http://zhangzju.github.io/)
+
 ## 不同版本简历（Different version)
 
 1. [中文全栈工程师](http://zhangzju.github.io/mysummary/Chinese)
