@@ -16,19 +16,18 @@
 
 ## Basic
 
-I am an experienced front-end developer who has led development for multiple
-successful $1MM+ projects. I am passionate about building high quality apps and
+I am an experienced front-end developer who has envolved in quite a few projects. 
+I am passionate about building high quality apps and
 user interfaces with modern web technologies. Through being conversant in
-server-side engineering, visual/UX design, and project management practices,
+server-side engineering, Reactjs development, and docker management practices,
 I am able to execute end-to-end on a product or project.
 
 ## Specialties
 
 Authoring great user experiences with JavaScript, HTML, and CSS. Advocating for
-the open web. Managing and mentoring dev teams. Performing code reviews.
-Writing white papers and API documentation. Particating in the black art of
-software estimation. Drawing from a strong background in many diverse web
-technologies and frameworks.
+the open web. Drawing from a strong background in many diverse web
+technologies and frameworks.Familiar with a little of backend language such as PHP, Python
+and Nodejs, Ruby on Rails.
 
 ## Experience
 
