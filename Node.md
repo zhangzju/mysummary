@@ -75,7 +75,6 @@
 - [jQuery](http://jquery.com)^†^
 - [Lodash](http://lodash.com)
 - [React](http://facebook.github.io/react)
-- [Ruby on Rails](http://rubyonrails.org)
 - [Wordpress](http://wordpress.org)
 - [vue.js](http://vuejs.org)
 
