@@ -22,6 +22,7 @@
 2. 对前端有兴趣，使用过React，vue.js等框架，对同构和前后分离有着一定的了解
 3. 运维和管理，包括Jenkins，gitlab等服务器的维护
 4. 对PHP，Go等后端语言及类库有一定了解，对python的Django和Flask熟练使用
+5. 熟悉Electron，能够使用原生js开发桌面软件
 
 
 ## 经历
