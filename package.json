@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/zhangzju/mysummary#readme",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-markdown-pdf": "^4.0.0"
   },
   "devDependencies": {
     "gulp-markdown-pdf": "^4.0.0"

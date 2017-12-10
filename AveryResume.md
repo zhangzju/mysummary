@@ -1,7 +1,7 @@
-Avery Liu
+Avery Liu
 =============
 
-Business manager & Service manager
+Business manager & Service manager
 -----------------------
 
 - Phone: [176-2046-5866](tel://176-2046-5866)
@@ -12,11 +12,11 @@ Business manager & Service manager
 Education
 -------
 
-### **Bachelor degree** at [SiChuan University]
+### **Bachelor degree** at [SiChuan University]
 
 *September 2012 - June 2016*
 
-Study at *Information and resources management* subject, graduated with CET-6 and NCRE-2 certificates.
+Study at *Information and resources management* subject, graduated with CET-6 and NCRE-2 certificates.
 Win SiChuan university comprehensive scholarship of 2013-2016.
 
 
@@ -45,7 +45,7 @@ In charge of the whole process of online education product（MOOC) system`s sali
 Get hang of MOOC products too.
 
 
-### **Administration assistant(intership)** at [JingDong](http://jr.jd.com/)
+### **Administration assistant(intership)** at [JingDong](http://jr.jd.com/)
 
 *June 2015 - October 2015* (4 months)
 
