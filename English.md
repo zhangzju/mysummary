@@ -8,25 +8,26 @@
 - Email: <zhangwayzju@gmail.com>
 - Blog: [zhangzju.github.io](http://zhangzju.github.io)
 - Github: [zhangzju](http://github.com/zhangzju)
-- Twitter: [\@zhangzju](http://twitter.com/zhangzju)
+- Twitter: [@zhangzju](http://twitter.com/zhangzju)
 
+[Chinese Version](http://zhangzju.github.io/mysummary/Chinese)
 
+[Back](http://zhangzju.github.io/mysummary/)
 
-## Summary
+## Basic
 
-I am an experienced front-end developer who has led development for multiple
-successful $1MM+ projects. I am passionate about building high quality apps and
+I am an experienced front-end developer who has envolved in quite a few projects. 
+I am passionate about building high quality apps and
 user interfaces with modern web technologies. Through being conversant in
-server-side engineering, visual/UX design, and project management practices,
+server-side engineering, Reactjs development, and docker management practices,
 I am able to execute end-to-end on a product or project.
 
 ## Specialties
 
 Authoring great user experiences with JavaScript, HTML, and CSS. Advocating for
-the open web. Managing and mentoring dev teams. Performing code reviews.
-Writing white papers and API documentation. Particating in the black art of
-software estimation. Drawing from a strong background in many diverse web
-technologies and frameworks.
+the open web. Drawing from a strong background in many diverse web
+technologies and frameworks.Familiar with a little of backend language such as PHP, Python
+and Nodejs, Ruby on Rails.
 
 ## Experience
 
@@ -62,52 +63,45 @@ denoted with a ^†^ symbol.
 
 - [JavaScript](http://developer.mozilla.org/en/JavaScript)^†^
 - [PHP](http://php.net)
-- [Ruby](http://ruby-lang.org)^†^
+- [Python](http://python.org)
+- [C](http://gcc.org)
+- [Go](http://golang.org)
 
 ### Markup/Templating Languages & Preprocessors
 
 - [CSS](http://www.w3.org/Style/CSS/Overview.en.html)^†^
-- [Handlebars.js](http://handlebarsjs.com)
 - [HTML](http://developers.whatwg.org)^†^
-- [Jade](http://jade-lang.com)
+- [Ejs](http://embeddedjs.com)
 - [Markdown](http://daringfireball.net/projects/markdown)^†^
-- [Mustache](http://mustache.github.io)
-- [Sass](http://sass-lang.com)^†^
-- [Stylus](http://learnboost.github.io/stylus)
 
 ### Frameworks & APIs
 
 - [Django](http://www.djangoproject.com)
+- [Flask](http://flask.org)
 - [Express](http://expressjs.com)^†^
+- [Hapi.js](http://hapijs.com)
 - [jQuery](http://jquery.com)^†^
-- [Lodash](http://lodash.com)^†^
-- [Node.js](http://nodejs.org)^†^
+- [Lodash](http://lodash.com)
 - [React](http://facebook.github.io/react)
 - [Ruby on Rails](http://rubyonrails.org)
-- [Sinatra](http://sinatrarb.com)
-- [Twitter API](http://dev.twitter.com)
-- [Underscore.js](http://underscorejs.org)^†^
 - [Wordpress](http://wordpress.org)
+- [vue.js](http://vuejs.org)
 
 
 ### Software & Tools
 
 - [Apache](http://apache.org)^†^
-- [Apple XCode](http://developer.apple.com)
 - [Git](http://git-scm.com)^†^
 - [Gulp](http://gulpjs.com)^†^
-- [Mac OS X](http://apple.com/macosx)^†^
 - [MongoDB](http://mongodb.org)^†^
 - [MySQL](http://mysql.com)
 - [Nginx](http://wiki.nginx.org)
 - [Pandoc](http://johnmacfarlane.net/pandoc)
 - [PostgreSQL](http://postgresql.org)
-- [rvm](http://rvm.beginrescueend.com)^†^
 - [Sublime Text](http://www.sublimetext.com)
-- [Subversion](http://svn.apache.org)
 - [Ubuntu Linux](http://ubuntu.com)
 - [Vim](http://www.vim.org)^†^
-- [zsh](http://www.zsh.org)^†^
+- [Redis](http://redis.org)
 
 
 
@@ -119,9 +113,9 @@ denoted with a ^†^ symbol.
 
 ## Interests
 
-- Reading, especially chinese detective nodel.
+- Basketball, soccer, rugby.
 - Heart Stone, SanGuoSha.
 - Chinese cross-talk show(being an actor or audience).
-- Watching and contributing to Open Source Software
+- Contributing to Open Source Software
 
-©2016 [zhangzju](http://zhangzju.com/resume). All rights reserved. Direct contact only desired (no recruiters please).
+©2017 [zhangzju](http://zhangzju.com/resume). All rights reserved. Direct contact only desired (no recruiters please).

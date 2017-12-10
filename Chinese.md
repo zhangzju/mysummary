@@ -8,8 +8,11 @@
 - 邮件: <zhangwayzju@gmail.com>
 - 个人博客: [zhangzju.github.io](http://zhangzju.github.io)
 - Github: [zhangzju](http://github.com/zhangzju)
-- Twitter: [\@zhangzju](http://twitter.com/zhangzju)
+- Twitter: [@zhangzju](http://twitter.com/zhangzju)
 
+[英文简历](http://zhangzju.github.io/mysummary/English)
+
+[回到简历首页](http://zhangzju.github.io/mysummary/)
 
 
 ## 简历概述
@@ -31,33 +34,31 @@
 
 *July 2015 - December 2015*(half a year)
 
-担任漏洞扫描组的漏洞测试人员, 搭建各种服务器及应用的环境用于测试不同的CVE漏洞是否已经被解决，同时
-负责更新漏洞库. 在测试漏洞的过程中对各种WEB程序，linux环境下的各种程序的运行原理都有了一定的了解，
-能够自主解决nginx配置，websocket报文抓取，postman的Http报文分析以及常见的windows漏洞的解决。
-同时对常见服务器的搭建，配置以及各种常见网络攻击方式的防范的理解.
+担任漏洞扫描组的漏洞测试人员, 搭建服务器及应用的环境用于confirm来自CVE漏洞，主要工作包括：
+* 搜集CVE漏洞信息，了解其实现原理
+* 编写NASL脚本，使用Nessus进行漏洞测试
+* 基于Linux和Windows Server搭建smtp，nfs等服务的环境
+* 编写漏洞扫描脚本，测试IE activex的漏洞修复情况
 
 ### **软件开发工程师** at [普联科技](http://www.tp-link.com.cn/)
 
 *July 2015 - Present* 
 
-Championed a more collaborative process for responsive web design between the
-UX and development disciplines. Curated an internal static web framework and
-responsive pattern library to be used on multiple projects. Lead development
-on responsive prototypes for NBC Universal, DIRECTV, AIG, Lionsgate, and the
-USA Network.
+担任软件开发工程师，负责基础设施建设，前端界面bug fix，网站全站开发以及嵌入式软件开发等工作,主要包括：
+* 解决路由器产品界面定制过程中出现的web前端问题
+* 搭建和维护Redmine，Docker Registry，Jenkins和Gitlab服务器，以及负责管理和使用普及
+* 开发Mercusys网站的部分内容，开发内部项目进程跟踪服务以及模拟ACS服务器
+* 进行路由设备网络功能，智能手机支持功能的相关工作
 
 
 ## 技能
 
-These are languages, tools, and practices to which I have had exposure over the
-past 4 years or so. Those things which enjoy routine usage in my daily work are
-denoted with a ^†^ symbol.
+以下是我大学及工作以来在专业方面积累的知识和技能。带有 ^†^ 标记的是我使用较多的。
 
 ### 编程语言
 
 - [JavaScript](http://developer.mozilla.org/en/JavaScript)^†^
 - [PHP](http://php.net)
-- [Ruby](http://ruby-lang.org)^†^
 - [Python](http://python.org)
 - [C](http://gcc.org)
 - [Go](http://golang.org)
@@ -75,32 +76,28 @@ denoted with a ^†^ symbol.
 - [Flask](http://flask.org)
 - [Express](http://expressjs.com)^†^
 - [Hapi.js](http://hapijs.com)
-- [Sail.js](http://salsjs.org)
 - [jQuery](http://jquery.com)^†^
-- [Lodash](http://lodash.com)^†^
+- [Lodash](http://lodash.com)
 - [React](http://facebook.github.io/react)
 - [Ruby on Rails](http://rubyonrails.org)
 - [Wordpress](http://wordpress.org)
+- [vue.js](http://vuejs.org)
 
 
 ### 软件工具
 
 - [Apache](http://apache.org)^†^
-- [Apple XCode](http://developer.apple.com)
 - [Git](http://git-scm.com)^†^
 - [Gulp](http://gulpjs.com)^†^
-- [Mac OS X](http://apple.com/macosx)^†^
 - [MongoDB](http://mongodb.org)^†^
 - [MySQL](http://mysql.com)
 - [Nginx](http://wiki.nginx.org)
 - [Pandoc](http://johnmacfarlane.net/pandoc)
 - [PostgreSQL](http://postgresql.org)
-- [rvm](http://rvm.beginrescueend.com)^†^
 - [Sublime Text](http://www.sublimetext.com)
-- [Subversion](http://svn.apache.org)
 - [Ubuntu Linux](http://ubuntu.com)
 - [Vim](http://www.vim.org)^†^
-- [zsh](http://www.zsh.org)^†^
+- [Redis](http://redis.org)
 
 
 
@@ -112,9 +109,9 @@ denoted with a ^†^ symbol.
 
 ## 兴趣爱好
 
-- Reading, especially chinese detective nodel.
-- Heart Stone, SanGuoSha.
-- Chinese cross-talk show(being an actor or audience).
-- Watching and contributing to Open Source Software
+- 篮球，足球，橄榄球.
+- 桌游.
+- 相声，戏曲.
+- 开源软件，社区新技术。
 
 ©2017 [zhangzju](http://zhangzju.com/resume). All rights reserved. Direct contact only desired (no recruiters please).
