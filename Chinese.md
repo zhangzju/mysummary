@@ -2,58 +2,51 @@
 
 # 张伟 zhangzju
 
-## 前端工程师  && 全栈工程师
+## 软件开发工程师（Web及相关方向）
 
 - 电话: [15267003266](tel://610-590-4484)
 - 邮件: <zhangwayzju@gmail.com>
-- 个人博客: [zhangzju.github.io](http://zhangzju.github.io)
 - Github: [zhangzju](http://github.com/zhangzju)
 - Twitter: [@zhangzju](http://twitter.com/zhangzju)
 
-[英文简历](http://zhangzju.github.io/mysummary/English)
-
-[回到简历首页](http://zhangzju.github.io/mysummary/)
-
-
-## 简历概述
-
-一个对前端和WEB有着浓厚兴趣的开发者. 对于构建高质量，高可用性的WEB服务有着非常大的热情，对于新技术有
-着很强的兴趣. 在Linux服务器环境，运维，嵌入式开发，Nginx配置，Docker分发部署等方面有着一定的技术基础,
-热衷于追随技术潮流，投身新技术的学习和研究.
 
 ## 技术方向
 
-1. 在WEB开发上有着一定的经验，大学以来一直跟随前端社区的技术潮流，对React.js, Vue.js等框架有着一定的开发经验. 
-2. 业余大量时间投身于微服务以及快速部署方面的研究，对springboot，openresty以及docker均投入时间研究.
-3. 运维和管理，包括Jenkins，docker registry，redmine以及gitlab. 热衷于开源社区的新技术潮流DevOps.
-4. 对于Android和iOS移动开发也有着一定的兴趣。
+1. Web前端开发，涵盖CSS问题，MVVM框架功能以及类jQuery的组件化开发
+2. 服务端开发，Node.js与PHP，C(webserver)开发，以及基于Python的REST Server
+3. 嵌入式开发，C(GCC)与C#和Winform为主的工具软件开发
+4. 主要基于docker的服务器部署和运维，敏捷开发配套server的架设
+5. Excel VBA开发，以及胶水场景下的有效工具开发
+
 
 ## 经历
-
-### **系统安全工程师** at [迪普科技](http://www.dptechnology.net/)
-
-*July 2015 - December 2015*(half a year)
-
-担任漏洞扫描组的漏洞测试人员, 搭建服务器及应用的环境用于confirm来自CVE漏洞，主要工作包括：
-* 搜集CVE漏洞信息，了解其实现原理
-* 编写NASL脚本，使用Nessus进行漏洞测试
-* 基于Linux和Windows Server搭建smtp，nfs等服务的环境
-* 编写漏洞扫描脚本，测试IE activex的漏洞修复情况
 
 ### **软件开发工程师** at [普联科技](http://www.tp-link.com.cn/)
 
 *July 2015 - Present* 
 
-担任软件开发工程师，负责基础设施建设，前端界面bug fix，网站全站开发以及嵌入式软件开发等工作,主要包括：
-* 解决路由器产品界面定制过程中出现的web前端问题
-* 搭建和维护Redmine，Docker Registry，Jenkins和Gitlab服务器，以及负责管理和使用普及
-* 开发Mercusys网站的部分内容，开发内部项目进程跟踪服务以及模拟ACS服务器
-* 进行路由设备网络功能，智能手机支持功能的相关工作
+* Agile Config项目
+> 用于网络设备大规模更新配置的功能，负责协议设计与Server端开发，DUT端驱动部分开发
+* Archer C5项目及相关定制
+> 带有多种新功能的路由设备，负责基于jQuery开发组件化的B/S类单页应用界面，以及嵌入设备Server处理
+* Fake CWMP Server
+> 基于Python的MVC架构的虚拟ACS服务器，负责Controller部分开发
+* 事业部文档托管站点
+> 基于Vue.js的Static Website，托管部门文档，负责全部工作
+
+### **系统安全工程师** at [迪普科技](http://www.dptechnology.net/)
+
+*July 2015 - December 2015*(half a year)
+
+* Microsoft software软件漏洞测试项目
+> 为客户提供安全服务，负责在NMAP及其他工具组合下验证Windows补丁的可用性
+* Vulner list数据列表工具
+> 基于PHP的收集漏洞处理信息的工具，负责Server端开发
 
 
 ## 技能
 
-以下是我大学及工作以来在专业方面积累的知识和技能。带有 ^†^ 标记的是我使用较多的。
+备注：现工作中常用技术栈为C+JavaScript+Docker+git+C#+Python，Node.js为业余最感兴趣的一块。
 
 ### 编程语言
 
@@ -61,27 +54,18 @@
 - [PHP](http://php.net)
 - [Python](http://python.org)
 - [C](http://gcc.org)
-- [Go](http://golang.org)
-
-### 标记语言&模版语言
-
-- [CSS](http://www.w3.org/Style/CSS/Overview.en.html)^†^
-- [HTML](http://developers.whatwg.org)^†^
-- [Ejs](http://embeddedjs.com)
-- [Markdown](http://daringfireball.net/projects/markdown)^†^
+- [C#](http://csharp.org)
 
 ### 开发框架
 
-- [Django](http://www.djangoproject.com)
 - [Flask](http://flask.org)
 - [Express](http://expressjs.com)^†^
 - [Hapi.js](http://hapijs.com)
 - [jQuery](http://jquery.com)^†^
 - [Lodash](http://lodash.com)
 - [React](http://facebook.github.io/react)
-- [Ruby on Rails](http://rubyonrails.org)
-- [Wordpress](http://wordpress.org)
 - [vue.js](http://vuejs.org)
+- [Winform](http://msdn.com)
 
 
 ### 软件工具
@@ -89,17 +73,9 @@
 - [Apache](http://apache.org)^†^
 - [Git](http://git-scm.com)^†^
 - [Gulp](http://gulpjs.com)^†^
-- [MongoDB](http://mongodb.org)^†^
+- [MongoDB](http://mongodb.org)
 - [MySQL](http://mysql.com)
-- [Nginx](http://wiki.nginx.org)
-- [Pandoc](http://johnmacfarlane.net/pandoc)
-- [PostgreSQL](http://postgresql.org)
-- [Sublime Text](http://www.sublimetext.com)
-- [Ubuntu Linux](http://ubuntu.com)
-- [Vim](http://www.vim.org)^†^
-- [Redis](http://redis.org)
-
-
+- [Nginx](http://wiki.nginx.org)^†^
 
 ## 教育经历
 
@@ -110,7 +86,6 @@
 ## 兴趣爱好
 
 - 篮球，足球，橄榄球.
-- 桌游.
 - 相声，戏曲.
 - 开源软件，社区新技术。
 
