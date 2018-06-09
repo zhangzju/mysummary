@@ -1,92 +1,44 @@
 
 
-# 张伟 zhangzju
+# 张伟
 
-## 软件开发工程师（Web及相关方向）
+## 软件开发工程师
 
-- 电话: [15267003266](tel://610-590-4484)
-- 邮件: <zhangwayzju@gmail.com>
+- 电话: [17665236700]
+- 邮件: <zhangway19921221@163.com>
 - Github: [zhangzju](http://github.com/zhangzju)
-- Twitter: [@zhangzju](http://twitter.com/zhangzju)
 
+浙江杭州人，热衷于新鲜事物，能够持之以恒的对有挑战性的问题进行努力，抗压能力强，性格开朗乐观。
+
+## 教育经历
+
+[ZheJiang University](http://zju.edu.cn), Electronic and Science, 2011 - 2015
+
+2011至2015年就读于浙江大学信息电子工程学系，学士学位毕业
 
 ## 技术方向
 
-1. Web前端开发，涵盖CSS问题，MVVM框架功能以及类jQuery的组件化开发
-2. 服务端开发，Node.js与PHP，C(webserver)开发，以及基于Python的REST Server
-3. 嵌入式开发，C(GCC)与C#和Winform为主的工具软件开发
-4. 主要基于docker的服务器部署和运维，敏捷开发配套server的架设
-5. Excel VBA开发，以及胶水场景下的有效工具开发
+1. HTTP协议相关的后端开发，C，PHP和Node.js后端开发
+2. Javascript相关的前端开发，Winform软件开发
+3. Docker和Jenkins持续集成系统开发，Ansible playbook自动化运维
 
 
-## 经历
+## 工作经历
 
 ### **软件开发工程师** at [普联科技](http://www.tp-link.com.cn/)
 
 *July 2015 - Present* 
 
 * Agile Config项目
-> 用于网络设备大规模更新配置的功能，负责协议设计与Server端开发，DUT端驱动部分开发
-* Archer C5项目及相关定制
-> 带有多种新功能的路由设备，负责基于jQuery开发组件化的B/S类单页应用界面，以及嵌入设备Server处理
-* Fake CWMP Server
-> 基于Python的MVC架构的虚拟ACS服务器，负责Controller部分开发
-* 事业部文档托管站点
-> 基于Vue.js的Static Website，托管部门文档，负责全部工作
-
-### **系统安全工程师** at [迪普科技](http://www.dptechnology.net/)
-
-*July 2015 - December 2015*(half a year)
-
-* Microsoft software软件漏洞测试项目
-> 为客户提供安全服务，负责在NMAP及其他工具组合下验证Windows补丁的可用性
-* Vulner list数据列表工具
-> 基于PHP的收集漏洞处理信息的工具，负责Server端开发
-
-
-## 技能
-
-备注：现工作中常用技术栈为C+JavaScript+Docker+git+C#+Python，Node.js为业余最感兴趣的一块。
-
-### 编程语言
-
-- [JavaScript](http://developer.mozilla.org/en/JavaScript)^†^
-- [PHP](http://php.net)
-- [Python](http://python.org)
-- [C](http://gcc.org)
-- [C#](http://csharp.org)
-
-### 开发框架
-
-- [Flask](http://flask.org)
-- [Express](http://expressjs.com)^†^
-- [Hapi.js](http://hapijs.com)
-- [jQuery](http://jquery.com)^†^
-- [Lodash](http://lodash.com)
-- [React](http://facebook.github.io/react)
-- [vue.js](http://vuejs.org)
-- [Winform](http://msdn.com)
-
-
-### 软件工具
-
-- [Apache](http://apache.org)^†^
-- [Git](http://git-scm.com)^†^
-- [Gulp](http://gulpjs.com)^†^
-- [MongoDB](http://mongodb.org)
-- [MySQL](http://mysql.com)
-- [Nginx](http://wiki.nginx.org)^†^
-
-## 教育经历
-
-[ZheJiang University](http://zju.edu.cn), Electronic and Science, 2011 - 2015
-
+> 嵌入式设备配置自动更新系统，使用DHCP和TFTP以及UDP进行自动化的升级，负责协议设计和服务器端实现
+* 持续集成项目
+> 使用Docker构建编译环境，Jenkins进行持续集成，Gitlab进行代码托管，负责系统搭建和维护
+* BBA平台多国语言本地化项目
+> 基于Jquery实现的多国语言本地化项目，负责实现，Bug修复和文档
 
 
 ## 兴趣爱好
 
-- 篮球，足球，橄榄球.
-- 相声，戏曲.
-- 开源软件，社区新技术。
-
-©2017 [zhangzju](http://zhangzju.com/resume). All rights reserved. Direct contact only desired (no recruiters please).
+- 篮球，足球等团体球类运动
+- 擅长写作和段子，有自己的微信订阅号，粉丝过百
+- 热爱开源，混迹于各大开源社区
