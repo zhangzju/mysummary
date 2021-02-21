@@ -12,13 +12,3 @@
 
 [回到首页](http://zhangzju.github.io/)
 
-## 不同版本简历（Different version)
-0. [Avery Business manager](http://zhangzju.github.io/mysummary/AveryResume)
-0. [刘芳 业务经理](http://zhangzju.github.io/mysummary/AveryChinese)
-1. [张伟 全栈工程师](http://zhangzju.github.io/mysummary/Chinese)
-2. [张伟 前端开发工程师](http://zhangzju.github.io/mysummary/Chinese)
-3. [Cedric Full-stack engineer](http://zhangzju.github.io/mysummary/English)
-4. [Cedric Frontend engineer](http://zhangzju.github.io/mysummary/English)
-5. [张伟 Docker运维工程师](http://zhangzju.github.io/mysummary/Docker)
-6. [张伟 Node.js开发工程师](http://zhangzju.github.io/mysummary/Node)
-
