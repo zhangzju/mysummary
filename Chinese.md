@@ -6,6 +6,9 @@
 - 邮件: <zhangwayzju@gmail.com>
 - Wechat: 1219754088
 
+### 个人简介
+
+有多年go/c开发经验，擅长linux性能优化，网络问题排查，熟悉Nginx/HTTPS/高可用/稳定性相关业务
 ## 教育经历
 
 **[浙江大学](http://zju.edu.cn), Electronic and Science, 2011 - 2015**
@@ -23,7 +26,7 @@
 - ### 应用型负载均衡项目 2020.2~2021.2
   设计和开发了新一代七层负载均衡产品，担任项目负责人
 
-  实现了基于容器编排，SDN网络，Openresty/Nginx，支持PrivateLink，waf等特性，快速迭代的高可用负载均衡产品，目前在灰度中
+  实现了基于容器编排，SDN网络，Openresty/Nginx，支持PrivateLink，waf等特性，性能提升10%，支持快速迭代，快速迭代的高可用负载均衡产品，目前在灰度中
 
 **[TP-Link网络](http://tp-link.com), 软件开发工程师，2015.7 - 2018.8**
 
